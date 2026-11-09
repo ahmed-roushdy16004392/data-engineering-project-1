@@ -42,13 +42,13 @@ Then open the address printed in the terminal (usually http://127.0.0.1:8050). R
 
 ## Team contributions
 
-| Member | Contribution |
-|---|---|
-| Ahmed Alaa | Data cleaning and integration (main notebook), Questions 1 and 4, the Dash website (`app.py`), repository setup |
-| Seif Moustapha | Datasets Exploration | Questions 2 and 3 |
-| Abdelrahman Elakkad | Questions 5 and 6 |
+| Member | Role | Questions |
+|---|---|---|
+| Ahmed Alaa | Data cleaning and integration (main notebook), the Dash website (`app.py`), repository setup | Questions 1 and 4 |
+| Seif Moustapha | Datasets exploration | Questions 2 and 3 |
+| Abdelrahman Elakkad | Visualization work | Questions 5 and 6 |
 | Steven Elias | Data cleaning and integration | Questions 7 and 9 |
-| Omar Nasr | Website Deployment | Questions 8 and 10 |
+| Omar Nasr | Website deployment | Questions 8 and 10 |
 
 Each member's own notebook is in the `Notebook/` folder, and their commits are in the repository history.
 
